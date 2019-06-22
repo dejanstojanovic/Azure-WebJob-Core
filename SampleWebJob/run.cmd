@@ -1,0 +1,1 @@
+dotnet SampleWebJob.dll
